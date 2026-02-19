@@ -32,3 +32,14 @@
 
 
 практическая работа калькулятор 
+
+текстовое поле 
+
+<img width="1936" height="596" alt="image" src="https://github.com/user-attachments/assets/817ecd99-3211-4037-8289-da14fcefeca9" />
+
+
+
+получение введённого текста 
+
+
+
